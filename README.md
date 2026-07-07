@@ -8,3 +8,15 @@ Repo ini dibuat untuk tujuan edukasi mata kuliah Keamanan Siber — UNIVERSITAS 
 ## Struktur Utama Portofolio
 - `/docs` : Berkas writeup komprehensif berformat Markdown.
 - `/images` : Dokumentasi grafis orisinal disertai anotasi analitis.
+
+
+## Jurnal Rangking Tabel Daftar Tantangan Crackme
+Berikut adalah matriks ringkasan status penyelesaian eksploitasi biner:
+
+| Nama Tantangan | Sumber Target | Tingkat Kesulitan | Kakas Utama | Status Kelayakan |
+| :--- | :--- | :--- | :--- | :--- |
+| **Crackme_01** | crackmes.one | Mudah (Easy) | Ghidra Decompiler | [SOLVED] |
+| **Crackme_02** | crackmes.one | Mudah (Easy) | x64dbg Software | [SOLVED] |
+| **Crackme_03** | crackmes.one | Sedang (Medium) | Ghidra + Python 3 | [SOLVED] |
+
+- **Tautan Skrip Pendukung:** [Keygen Otomatis Python](crackme_03/keygen.py)
