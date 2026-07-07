@@ -20,3 +20,5 @@ Berikut adalah matriks ringkasan status penyelesaian eksploitasi biner:
 | **Crackme_03** | crackmes.one | Sedang (Medium) | Ghidra + Python 3 | [SOLVED] |
 
 - **Tautan Skrip Pendukung:** [Keygen Otomatis Python](crackme_03/keygen.py)
+
+  *Catatan: Seluruh solusi writeup adalah karya analisis mandiri.*
